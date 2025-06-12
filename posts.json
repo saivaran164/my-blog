@@ -1,0 +1,12 @@
+[
+  {
+    "title": "My First Blog Post",
+    "content": "This is a short introduction to my blog app!",
+    "image": "images/post1.jpg"
+  },
+  {
+    "title": "Responsive Design Tips",
+    "content": "Learn how to make your websites mobile-friendly.",
+    "image": "images/post1.jpg"
+  }
+]
