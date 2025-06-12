@@ -1,0 +1,8 @@
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:sans-serif;background:#f0f0f0;padding:1rem}
+header,footer{text-align:center;padding:1rem;background:#333;color:#fff}
+main{display:grid;grid-template-columns:1fr 1fr;gap:1rem;margin-top:1rem}
+@media(max-width:768px)
+{main{grid-template-columns:1fr}}.post{background:#fff;
+    padding:1rem;border-radius:8px;box-shadow:0 0 5px rgba(0,0,0,0.1)}.post 
+    img{width:100%;height:auto;border-radius:8px}
